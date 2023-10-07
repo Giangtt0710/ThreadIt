@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "408007917920",
+    "firebase_url": "https://threadit-firebase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "threadit-firebase",
+    "storage_bucket": "threadit-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408007917920:android:c1e7e741dc4b8859cb5e05",
+        "android_client_info": {
+          "package_name": "vn.edu.usth.threadit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSrhxNRqUvaYUnIB6lCcXLaFNfdYWwGtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
